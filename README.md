@@ -1,0 +1,2 @@
+# connect
+MySQL veritabanı bağlantısı
